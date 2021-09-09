@@ -6,6 +6,8 @@ Representa uma entidade em um programa.
 
 TURURU
 
+ola
+
 ## Herança
 Herenca
 ## Interface
