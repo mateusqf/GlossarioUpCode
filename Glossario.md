@@ -1,6 +1,6 @@
 # Glossário
 
-#exeption
+## List
 ## Classe
 Representa uma entidade em um programa.
 
