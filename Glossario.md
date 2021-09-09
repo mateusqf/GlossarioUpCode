@@ -1,6 +1,6 @@
 # Glossário
 
-## List
+#exeption
 ## Classe
 Representa uma entidade em um programa.
 
@@ -15,3 +15,4 @@ String
 ## Variáveis
 ## Bibliotecas
 ## Array
+## Métodos
